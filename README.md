@@ -1,6 +1,6 @@
 # Analyse de l’impact de la croissance démographique sur la croissance économique en France  
 
-> 🏫 Projet scolaire – Étude économique appliquée à la data science  
+> 🏫 Projet académique – Étude économique appliquée à la data science  
 
 Ce projet explore la relation entre la **croissance démographique** et la **croissance économique** en France, à partir de données couvrant la période **1960 – 2023**.  
 Il s’inscrit dans le cadre d’une **étude académique** combinant analyse économique et modélisation statistique.  
